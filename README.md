@@ -10,4 +10,4 @@
 
 ## Lec 0: Unity Install
 
-https://docs.google.com/document/d/11lGYNSMMBUv9zLsNMtGI-5LsbQDCA31nTTeXYlEaYwc/edit?usp=sharing
+[유니티 설치](https://docs.google.com/document/d/11lGYNSMMBUv9zLsNMtGI-5LsbQDCA31nTTeXYlEaYwc/edit?usp=sharing)
