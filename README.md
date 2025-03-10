@@ -19,3 +19,7 @@
 ## Lec 0: Unity Install
 
 [유니티 설치](https://docs.google.com/document/d/11lGYNSMMBUv9zLsNMtGI-5LsbQDCA31nTTeXYlEaYwc/edit?usp=sharing)
+
+## Lec 1: Unity와 친해지기
+
+[유니티로 간단한 장면 만들어 보기]()
