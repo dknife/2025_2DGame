@@ -7,16 +7,16 @@ public class ballMove : MonoBehaviour
     float y = 0.0f;
     float vx = 0.0f;
     float vy = 0.0f;
-    float fx = 0.0f;
-    float fy = 0.0f;
+    [SerializeField] float fx = 10.0f;
+    [SerializeField] float fy = 20.0f;
     float g = 9.8f;
     float total_time = 0.0f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        fx = 10.0f;
-        fy = 20.0f;        
+       x = transform.position.x;
+       y = transform.position.y;
     }
 
     // Update is called once per frame

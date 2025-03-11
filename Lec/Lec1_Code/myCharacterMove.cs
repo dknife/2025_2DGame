@@ -12,6 +12,6 @@ public class NewMonoBehaviourScript : MonoBehaviour
     void Update()
     {
         transform.Translate(0, 0.01f, 0);
-        transform.Rotate(0, 0, 0.3f);
+        transform.Rotate(0, 0.0f, 0.3f);
     }
 }
