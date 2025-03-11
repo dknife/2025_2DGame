@@ -15,8 +15,8 @@ public class ballMove : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        fx = 40.0f;
-        fy = 40.0f;        
+        fx = 10.0f;
+        fy = 20.0f;        
     }
 
     // Update is called once per frame
@@ -33,6 +33,20 @@ public class ballMove : MonoBehaviour
         vy += ay * dt;
         x += vx * dt;
         y += vy * dt;
+        float xLim = 9.0f;
+        float yLim = 4.0f;
+        if (y < -yLim) {
+            vy = -vy;
+            y = -yLim + (-yLim - y );
+        }
+        if (x > xLim) {
+            vx = -vx;
+            x = xLim - (x - xLim);
+        }
+        if (x < -xLim) {
+            vx = -vx;
+            x = -xLim + (-xLim - x);
+        }
         transform.position = new Vector3(x, y, 0);
     }
 }
