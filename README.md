@@ -25,3 +25,9 @@
 [유니티로 간단한 장면 만들어 보기](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec1_Unity_%EC%9D%B5%EC%88%99%ED%95%B4%EC%A7%80%EA%B8%B0.pdf)
 
 * [Scripts](https://github.com/dknife/2025_2DGame/tree/main/Lec/Lec1_Code)
+
+## Lec 2: Unity로 초보적인 게임 시스템을 만들어보자
+
+[유니티로 간단한 게임환경 만들기](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec1_Unity_%EC%9D%B5%EC%88%99%ED%95%B4%EC%A7%80%EA%B8%B0.pdf)
+
+* [Resources](https://github.com/dknife/2025_2DGame/tree/main/Lec/Lec1_Code)
