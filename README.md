@@ -28,6 +28,6 @@
 
 ## Lec 2: Unity로 초보적인 게임 시스템을 만들어보자
 
-[유니티로 간단한 게임환경 만들기](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec2_Unity_Game만들기_.pdf)
+[유니티로 간단한 게임환경 만들기](https://github.com/dknife/2025_2DGame/blob/main/Lec/Lec2_Unity_Game%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5_.pdf)
 
 * [Resources](https://github.com/dknife/2025_2DGame/tree/main/Lec/Lec1_Code)
