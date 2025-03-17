@@ -30,4 +30,6 @@
 
 [유니티로 간단한 게임환경 만들기](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec2_Unity_Game%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5_.pdf)
 
+[유니티로 간단한 게임환경 만들기](https://github.com/dknife/2025_2DGame/blob/main/Lec/Lec2_Unity_Game%EB%A7%8C%EB%93%A4%EA%B8%B0_.pdf)
+
 * [Resources](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec2_Resources.zip)
