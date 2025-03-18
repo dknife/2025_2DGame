@@ -31,3 +31,5 @@
 [유니티로 간단한 게임환경 만들기](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec2_Unity_Game%EB%A7%8C%EB%93%A4%EA%B8%B0_.pdf)
 
 * [Resources](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec2_Resources.zip)
+
+* [1차시 - 자동차 제어 코드](https://github.com/dknife/2025_2DGame/blob/main/Lec/Lec2_Code/Character_Move_01.cs)
