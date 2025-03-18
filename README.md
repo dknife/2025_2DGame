@@ -35,3 +35,5 @@
 * [1차시 - 자동차 제어 코드](https://github.com/dknife/2025_2DGame/blob/main/Lec/Lec2_Code/Character_Move_01.cs)
 
 * [2차시 - 콜리젼, 트리거링, 애셋 등](https://github.com/dknife/2025_2DGame/tree/main/Lec/Lec2_Code/2nd)
+
+* [3차시 - 태그, 카메라 제어 포함](https://github.com/dknife/2025_2DGame/tree/main/Lec/Lec2_Code/3rd)
