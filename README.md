@@ -42,4 +42,4 @@
 
 [강의노트 - 스노우보드](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec3_Snowboard.pdf)
 
-*[Resources](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec3Code/snowboard.zip)
+* [Resources](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec3Code/snowboard.zip)
