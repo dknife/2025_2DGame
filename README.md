@@ -41,3 +41,5 @@
 ## Lec 3: 서피스 이펙터를 이용한 스노우보더 게임 만들기
 
 [강의노트 - 스노우보드](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec3_Snowboard.pdf)
+
+*[Resources](https://github.com/dknife/2025_2DGame/blob/main/Lec/Lec3Code/snowboard.zip)
