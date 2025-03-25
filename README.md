@@ -22,13 +22,13 @@
 
 ## Lec 1: Unity와 친해지기
 
-[유니티로 간단한 장면 만들어 보기](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec1_Unity_%EC%9D%B5%EC%88%99%ED%95%B4%EC%A7%80%EA%B8%B0.pdf)
+[강의노트 - 유니티로 간단한 장면 만들어 보기](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec1_Unity_%EC%9D%B5%EC%88%99%ED%95%B4%EC%A7%80%EA%B8%B0.pdf)
 
 * [Scripts](https://github.com/dknife/2025_2DGame/tree/main/Lec/Lec1_Code)
 
 ## Lec 2: Unity로 초보적인 게임 시스템을 만들어보자
 
-[유니티로 간단한 게임환경 만들기](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec2_Unity_Game%EB%A7%8C%EB%93%A4%EA%B8%B0_.pdf)
+[강의노트 - 유니티로 간단한 게임환경 만들기](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec2_Unity_Game%EB%A7%8C%EB%93%A4%EA%B8%B0_.pdf)
 
 * [Resources](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec2_Resources.zip)
 
@@ -38,4 +38,6 @@
 
 * [3차시 - 태그, 카메라 제어 포함](https://github.com/dknife/2025_2DGame/tree/main/Lec/Lec2_Code/3rd)
 
-## Lec 3: 
+## Lec 3: 서피스 이펙터를 이용한 스노우보더 게임 만들기
+
+[강의노트 - 스노우보드]()
