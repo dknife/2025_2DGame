@@ -47,3 +47,6 @@
 * [2차시 코드](https://github.com/dknife/2025_2DGame/tree/main/Lec/Lec3Code/Sub02)
 
   
+## Lec 4: UI 다루기
+
+[강의노트 - UI기반 퀴즈 게임]()
