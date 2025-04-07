@@ -49,4 +49,4 @@
   
 ## Lec 4: UI 다루기
 
-[강의노트 - UI기반 퀴즈 게임]()
+[강의노트 - UI기반 퀴즈 게임](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec4_UserInterface.pdf)
