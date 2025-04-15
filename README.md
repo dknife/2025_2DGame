@@ -52,3 +52,7 @@
 [강의노트 - UI기반 퀴즈 게임](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec4_UserInterface.pdf)
 
 * [Resources](https://github.com/dknife/2025_2DGame/blob/main/Lec/Lec4_QuizGame/QuizGameResources.zip)
+
+## Lec 5: Space Shooter Arcade Part 1
+
+[강의노트 - 프로젝트 설정 및 캐릭터 준비와 사용자 입력 처리]()
