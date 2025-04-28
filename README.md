@@ -59,4 +59,4 @@
 
 ## Lec 6: Space Shooter Arcade Part 2
 
-[강의노트 - 플레이어와 적기 움직임 제어]()
+[강의노트 - 플레이어와 적기 움직임 제어](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec6_ArcadeGame_Player_Enemy.pdf)
