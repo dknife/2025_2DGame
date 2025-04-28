@@ -56,3 +56,7 @@
 ## Lec 5: Space Shooter Arcade Part 1
 
 [강의노트 - 프로젝트 설정 및 캐릭터 준비와 사용자 입력 처리](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec5_ArcadeGameInputSystem.pdf)
+
+## Lec 6: Space Shooter Arcade Part 2
+
+[강의노트 - 플레이어와 적기 움직임 제어]()
