@@ -62,3 +62,5 @@
 [강의노트 - 플레이어와 적기 움직임 제어](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec6_ArcadeGame_Player_Enemy.pdf)
 
 * [단계 1 - 플레이어 제어와 단일 적 비행체 움직임](https://github.com/dknife/2025_2DGame/tree/main/Lec/Lec06)
+
+* [단계 2 - 적 비행체 생성과 코루틴 활용](https://github.com/dknife/2025_2DGame/tree/main/Lec/Lec06/level2)
