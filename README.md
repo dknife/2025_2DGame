@@ -69,4 +69,4 @@
 
 ## Lec 7: Space Shooter arcade Part 3
 
-[강의노트 - 전투가 가능하도록 만들어 보기](https://github.com/dknife/2025_2DGame/blob/main/Lec/Lec7_ArcadeGame_Battle.pdf)
+[강의노트 - 전투가 가능하도록 만들어 보기](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec7_ArcadeGame_Battle.pdf)
