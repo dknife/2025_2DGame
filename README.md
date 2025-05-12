@@ -64,3 +64,5 @@
 * [단계 1 - 플레이어 제어와 단일 적 비행체 움직임](https://github.com/dknife/2025_2DGame/tree/main/Lec/Lec06)
 
 * [단계 2 - 적 비행체 생성과 코루틴 활용](https://github.com/dknife/2025_2DGame/tree/main/Lec/Lec06/level2)
+
+## Lec 6까지의 [구현 결과]()
