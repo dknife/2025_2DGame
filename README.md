@@ -65,8 +65,10 @@
 
 * [단계 2 - 적 비행체 생성과 코루틴 활용](https://github.com/dknife/2025_2DGame/tree/main/Lec/Lec06/level2)
 
-## Lec 6까지의 [구현 결과](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec06_ImplementedAsset/Assets.zip)
+## Lec 6까지의 [구현 결과 다운로드](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec06_ImplementedAsset/Assets.zip)
 
 ## Lec 7: Space Shooter arcade Part 3
 
 [강의노트 - 전투가 가능하도록 만들어 보기](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec7_ArcadeGame_Battle.pdf)
+
+## Lec 7까지의 [구현 결과 다운로드](https://github.com/dknife/2025_2DGame/blob/main/Lec/Assets20250513.zip)
