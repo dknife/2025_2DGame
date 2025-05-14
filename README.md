@@ -16,6 +16,8 @@
 
 과제 1: 집에서 사용하는 컴퓨터(노트북)에 유니티 허브와 유니티 엔진을 설치하고 프로젝트를 생성해 본 결과를 캡쳐해서 1장에 담아 제출한다. (학번, 이름 필수 - 종이로 출력해서 제출)
 
+과제 2: Lec7의 구현 결과를 바탕으로 적기에서 발사체를 발사하게 만든다
+
 ## Lec 0: Unity Install
 
 [유니티 설치](https://docs.google.com/document/d/11lGYNSMMBUv9zLsNMtGI-5LsbQDCA31nTTeXYlEaYwc/edit?usp=sharing)
@@ -72,3 +74,5 @@
 [강의노트 - 전투가 가능하도록 만들어 보기](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec7_ArcadeGame_Battle.pdf)
 
 ### Lec 7까지의 [구현 결과 다운로드](https://github.com/dknife/2025_2DGame/blob/main/Lec/Assets20250513.zip)
+
+과제 2 검사: Lec7의 구현 결과를 바탕으로 적기에서 발사체를 발사하게 만든다
