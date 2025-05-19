@@ -76,3 +76,7 @@
 ### Lec 7까지의 [구현 결과 다운로드](https://github.com/dknife/2025_2DGame/blob/main/Lec/Assets20250513.zip)
 
 과제 2 검사: Lec7의 구현 결과를 바탕으로 적기에서 발사체를 발사하게 만든다
+
+### Lec 8 적기의 발사 동작과 게임 효과
+
+[폭발효과 이미지](https://github.com/dknife/2025_2DGame/raw/main/Lec/explotion.png)
