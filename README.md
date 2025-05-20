@@ -82,3 +82,5 @@
 [강의노트 - 입자시스템과 음향효과](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec7_ArcadeGame_Enemy_And_Effects.pdf)
 
 [폭발효과 이미지](https://github.com/dknife/2025_2DGame/raw/main/Lec/explotion.png)
+
+### Lec 8까지의 [구현 결과 다운로드]()
