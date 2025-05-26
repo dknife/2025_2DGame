@@ -83,4 +83,8 @@
 
 [폭발효과 이미지](https://github.com/dknife/2025_2DGame/raw/main/Lec/explotion.png)
 
-### Lec 8까지의 [구현 결과 다운로드](https://github.com/dknife/2025_2DGame/raw/main/Lec/Assets0520.zip)
+### Lec 8까지의 [구현 결과 다운로드](https://github.com/dknife/2025_2DGame/blob/main/Lec/Assets20250525.zip)
+
+### Lec 9 게임 관리
+
+[강의노트 - 게임 관리]()
