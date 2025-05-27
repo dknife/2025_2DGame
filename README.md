@@ -88,3 +88,5 @@
 ### Lec 9 게임 관리
 
 [강의노트 - 게임 관리](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec9_ArcadeGame_Management.pdf)
+
+### Lec 9까지의 [구현 결과 다운로드](https://github.com/dknife/2025_2DGame/blob/main/Lec/Assets250527.zip)
