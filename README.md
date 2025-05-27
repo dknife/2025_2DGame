@@ -87,4 +87,4 @@
 
 ### Lec 9 게임 관리
 
-[강의노트 - 게임 관리]()
+[강의노트 - 게임 관리](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec9_ArcadeGame_Management.pdf)
