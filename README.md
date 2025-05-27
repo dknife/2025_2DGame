@@ -18,6 +18,8 @@
 
 과제 2: Lec7의 구현 결과를 바탕으로 적기에서 발사체를 발사하게 만든다
 
+과제 3: SpaceShooter를 변형하여 나만의 간단한 아케이드 게임을 기획하여 만들어서 보여 준다. (3개 이상의 Scene을 가지고 동작한다.)
+
 ## Lec 0: Unity Install
 
 [유니티 설치](https://docs.google.com/document/d/11lGYNSMMBUv9zLsNMtGI-5LsbQDCA31nTTeXYlEaYwc/edit?usp=sharing)
@@ -85,8 +87,15 @@
 
 ### Lec 8까지의 [구현 결과 다운로드](https://github.com/dknife/2025_2DGame/blob/main/Lec/Assets20250525.zip)
 
+
 ### Lec 9 게임 관리
 
 [강의노트 - 게임 관리](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec9_ArcadeGame_Management.pdf)
 
 ### Lec 9까지의 [구현 결과 다운로드](https://github.com/dknife/2025_2DGame/blob/main/Lec/Assets250527.zip)
+
+https://github.com/dknife/2025_2DGame/blob/main/Lec/Assets250527.zip
+
+<수업전>
+
+과제 3 검사: SpaceShooter를 변형하여 나만의 간단한 아케이드 게임을 기획하여 만들어서 보여 준다. (3개 이상의 Scene을 가지고 동작한다.)
