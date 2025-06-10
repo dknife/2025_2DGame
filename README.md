@@ -99,3 +99,8 @@ https://github.com/dknife/2025_2DGame/blob/main/Lec/Assets250527.zip
 <수업전>
 
 과제 3 검사: SpaceShooter를 변형하여 나만의 간단한 아케이드 게임을 기획하여 만들어서 보여 준다. (3개 이상의 Scene을 가지고 동작한다.)
+
+
+### Lec 10 게임 매니저 사용
+
+[강의노트 - 게임 매니저]()
