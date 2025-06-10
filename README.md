@@ -104,3 +104,9 @@ https://github.com/dknife/2025_2DGame/blob/main/Lec/Assets250527.zip
 ### Lec 10 게임 매니저 사용
 
 [강의노트 - 게임 매니저](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec10_GameManager.pdf)
+
+<수업전>
+
+과제 3 미제출 학생 재검사
+
+### Lec 11 전체 강의 정리
