@@ -110,3 +110,5 @@ https://github.com/dknife/2025_2DGame/blob/main/Lec/Assets250527.zip
 과제 3 미제출 학생 재검사
 
 ### Lec 11 전체 강의 정리
+
+[강의노트 - 강의 정리](https://github.com/dknife/2025_2DGame/raw/main/Lec/Lec11_Unity_2D%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%A0%95%EB%A6%AC.pdf)
